@@ -1,0 +1,19 @@
+body {
+    background: rgb(0,0,0);
+    /* background: radial-gradient(circle, rgba(0,0,0,1) 100%, rgba(0,212,255,1) 100%, rgba(1,0,5,1) 100%); */
+}
+
+.done{
+    color: rgb(25, 204, 55);
+}
+.fail{
+    color:rgb(235, 14, 14);
+}
+.day-headings{
+    color: #049cbe;
+}
+.text-light {
+    font-family: monospace, 'Montserrat', sans-serif;
+    font-size: larger;
+    
+  }
